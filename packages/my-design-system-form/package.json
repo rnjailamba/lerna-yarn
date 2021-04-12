@@ -1,6 +1,6 @@
 {
-  "name": "@my-scope-name/my-design-system-form",
-  "version": "0.0.3",
+  "name": "my-design-system-form",
+  "version": "0.0.1",
   "main": "index.js",
-  "gitHead": "f790bb084b8648cb927e78d76234423474adcb29"
+  "gitHead": "1f3a0574f3c9b4ea7f30808fa57b63050d516be0"
 }
